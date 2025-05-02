@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# Hi there, I'm [Elutayo Johnson]! 👋
+## Hi there, I'm [Elutayo Johnson]! 👋
 
 ![Banner Image](blob:https://deepai.org/1f5ae528-9f73-416f-8da3-b97bf2cdd308)
 
@@ -11,7 +9,8 @@ I'm a passionate **[Software developer]** with experience in **[Python and it's 
 - 🌱 Currently learning: **[Backend development]**
 - 🌍 Languages: **[English, Yoruba, Python]**
 - 📫 How to reach me: **[elutayo3@gmail.com]**
-- ⚡ Fun fact: **[I'm an more of an Introvert]**
+- 
+- ⚡ Fun fact: **[I'm more of an Introvert :smiley:]**
 
 ## My Skills 🧠
 
