@@ -23,7 +23,7 @@ I'm a passionate **[Software developer]** with experience in **[Python and it's 
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=blue)
 
 
-*Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
+ 
 
 ## Get in Touch 📬
 
