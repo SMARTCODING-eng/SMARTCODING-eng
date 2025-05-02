@@ -1,6 +1,4 @@
-## Hi there, I'm [Elutayo Johnson]! 👋
-
-![Banner Image](blob:https://deepai.org/1f5ae528-9f73-416f-8da3-b97bf2cdd308)
+## Hi there, I'm [Elutayo Johnson]! 👋 
 
 ## About Me 🚀
 
