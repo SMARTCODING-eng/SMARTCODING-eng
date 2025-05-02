@@ -9,7 +9,7 @@ I'm a passionate **[Software developer]** with experience in **[Python and it's 
 - 🌱 Currently learning: **[Backend development]**
 - 🌍 Languages: **[English, Yoruba, Python]**
 - 📫 How to reach me: **[elutayo3@gmail.com 📧]**
-- 📞 +2349018534398
+- 📞 Contact me: +2349018534398
 - ⚡ Fun fact: **[I'm more of an Introvert 😆]**
 
 ## My Skills 🧠
