@@ -1,14 +1,14 @@
-## Hi there, I'm [Elutayo Johnson]! 👋 
+## Hi there, I'm Elutayo Johnson! 👋 
 
 ## About Me 🚀
 
-I'm a passionate **[Software developer]** with experience in **[Python and it's framework]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate **Software developer** with experience in **Python and it's framework**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **[Backend development]**
-- 🌍 Languages: **[English, Yoruba, Python]**
-- 📫 How to reach me: **[elutayo3@gmail.com 📧]**
+- 🌱 Currently learning: **Backend development**
+- 🌍 Languages: **English, Yoruba, Python**
+- 📫 How to reach me: **elutayo3@gmail.com 📧**
 - 📞 Contact me: +2349018534398
-- ⚡ Fun fact: **[I'm more of an Introvert 😆]**
+- ⚡ Fun fact: **I'm more of an Introvert 😆**
 
 ## My Skills 🧠
 
@@ -22,7 +22,7 @@ I'm a passionate **[Software developer]** with experience in **[Python and it's 
 
 ## Get in Touch 📬
 
-- **[Personal Website / Blog]**([(https://sites.google.com/view/smartcoding/about-me)])
+- **[Personal Website / Blog]**((https://sites.google.com/view/smartcoding/about-me))
 - **[LinkedIn]**(www.linkedin.com/in/
 elutayo-johnson-981004311
 )
