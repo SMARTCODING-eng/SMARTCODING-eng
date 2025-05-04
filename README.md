@@ -13,7 +13,7 @@ I'm a passionate **Software developer** with experience in **Python and it's fra
 ## My Skills 🧠
 
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=django,vlc,figma,google,canva,python,flutter&perline=3)](https://skillicons.dev)
 
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=green)
